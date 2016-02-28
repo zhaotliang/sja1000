@@ -1,0 +1,13 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "clk" LOC = P8;
+NET "reset_n" LOC = A5;
+NET "rx_adt" LOC = A11;
+NET "rx_fakong" LOC = T5;
+NET "rx_feikong" LOC = H13;
+NET "rx_wenmiao" LOC = M13;
+NET "tx_adt" LOC = F9;
+NET "tx_fakong" LOC = N5;
+NET "tx_feikong" LOC = H11;
+NET "tx_wenmiao" LOC = M14;
