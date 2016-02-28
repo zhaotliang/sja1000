@@ -48,6 +48,13 @@ impact.xsl
 impact_impact.xwbt
 ise_impact.cmd
 webtalk_impact.xml
+*.cfi
+*.mcs
+*.prm
+*.sig
+
+
+
 
 # Core Generator generated files
 xaw2verilog.log
@@ -58,6 +65,11 @@ par_usage_statistics.html
 usage_statistics_webtalk.html
 webtalk.log
 webtalk_pn.xml
+
+#saved files
+*.wdb
+*.wcfg
+
 
 # generated folders
 iseconfig/
