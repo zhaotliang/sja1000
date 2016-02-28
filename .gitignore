@@ -47,7 +47,7 @@
 *.exe
 *.cmd
 *.xmsgs
-
+*.ini
 
 # iMPACT generated files
 _impactbatch.log
